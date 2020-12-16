@@ -1,0 +1,12 @@
+.text-border {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 1rem 0 1rem 0;
+}
+.bold {
+  font-weight: bold;
+}
+.button-block {
+  display: flex;
+  margin-top: 10px;
+}
